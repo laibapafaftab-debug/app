@@ -1,0 +1,5 @@
+.env
+leads.db
+leads.db-*
+__pycache__/
+.venv/
